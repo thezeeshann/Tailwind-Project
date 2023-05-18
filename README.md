@@ -1,5 +1,17 @@
 # Tailwind Project 🔥
 
+### Getting Started
+To get started with this project, follow these steps:
+1. Clone the repository: 
+> git clone https://github.com/thezeeshann/Tailwind-Project.git
+2. Navigate to the project directory: 
+> cd Tailwind-Project
+3. Install the project dependencies:
+> npm install
+4. Start the development server:
+> npm run watch
+Open your browser and visit http://localhost:3000 to see the project in action.
+
 ### Project Description 📚
 ```
 The Tailwind Project is a web development project that utilizes the Tailwind CSS framework.
